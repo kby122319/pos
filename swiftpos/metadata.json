@@ -1,0 +1,5 @@
+{
+  "name": "SwiftPOS",
+  "description": "A modern Point of Sale system with barcode scanning and admin management.",
+  "requestFramePermissions": ["camera"]
+}
